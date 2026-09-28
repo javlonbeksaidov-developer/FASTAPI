@@ -34,7 +34,7 @@ Har bir loyiha alohida papkada saqlanadi va o‘zining API endpoint'lari, databa
 
 # ⚡ Python FastAPI framework
 
-| № | Project name | Git Repo | Date |
+| № | Project name | GitHub Repositories | Date |
 |:-:|:--------:|:--------:|:----:|
 | 1 | to-do-project-v2 | https://github.com/javlonbeksaidov-developer/to-do-project-v2 | 08.08.2026 |
 | 2 | post-blog-project-v1| https://github.com/javlonbeksaidov-developer/post-blog-project-v1 | 11.08.2026 |
