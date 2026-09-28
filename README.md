@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=229ED9&height=180&section=header&text=PYTHON%20DJANGO%20FRAMEWORK&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=229ED9&height=180&section=header&text=PYTHON%20FASTAPI%20FRAMEWORK&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <a href="https://github.com/javlonbeksaidov-developer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Django+framework;Database:+Sqlite+%E2%80%A2+PostgreSql;Author:+javlonbeksaidov-developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+FastAPI+framework;Database:+Sqlite+%E2%80%A2+PostgreSql;Author:+javlonbeksaidov-developer" alt="Typing SVG" />
 </a>
 
 </div>
