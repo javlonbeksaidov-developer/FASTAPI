@@ -36,12 +36,12 @@ Har bir loyiha alohida papkada saqlanadi va o‘zining API endpoint'lari, databa
 
 | № | Project name | Git Repo | Date |
 |:-:|:--------:|:--------:|:----:|
-| 1 | post-blog-project-v1| https://github.com/javlonbeksaidov-developer/post-blog-project-v1 | 11.08.2026 |
-| 2 | pharmacy-sales-project| https://github.com/javlonbeksaidov-developer/pharmacy-sales-project | 18.08.2026 |
+| 1 | to-do-project-v2 | https://github.com/javlonbeksaidov-developer/to-do-project-v2 | 08.08.2026 |
+| 2 | post-blog-project-v1| https://github.com/javlonbeksaidov-developer/post-blog-project-v1 | 11.08.2026 |
 | 3 | income-expenditure | https://github.com/javlonbeksaidov-developer/income-expenditure | 16.08.2026 |
-| 4 | library-fastapi-project | https://github.com/javlonbeksaidov-developer/library-fastapi-project | 26.08.2026 |
-| 5 | hotel-booking-fastapi-project | https://github.com/javlonbeksaidov-developer/hotel-booking-fastapi-project | 28.08.2026 |
-| 6 | to-do-project-v3 | https://github.com/javlonbeksaidov-developer/to-do-project-v3 | 01.09.2026 |
-| 7 | post-blog-project-v2 | https://github.com/javlonbeksaidov-developer/post-blog-project-v2 | 02.09.2026 |
-| 8 | to-do-project-v2 | https://github.com/javlonbeksaidov-developer/to-do-project-v2 | 08.08.2026 |
+| 4 | pharmacy-sales-project| https://github.com/javlonbeksaidov-developer/pharmacy-sales-project | 18.08.2026 |
+| 5 | library-fastapi-project | https://github.com/javlonbeksaidov-developer/library-fastapi-project | 26.08.2026 |
+| 6 | hotel-booking-fastapi-project | https://github.com/javlonbeksaidov-developer/hotel-booking-fastapi-project | 28.08.2026 |
+| 7 | to-do-project-v3 | https://github.com/javlonbeksaidov-developer/to-do-project-v3 | 01.09.2026 |
+| 8 | post-blog-project-v2 | https://github.com/javlonbeksaidov-developer/post-blog-project-v2 | 02.09.2026 |
 | 9 |-|-|-|
